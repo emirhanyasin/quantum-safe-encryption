@@ -68,11 +68,15 @@ These methods ensure that encrypted data remains secure even if quantum computer
 ---
 
 ## 🔒 **Why Choose QuantumSafeAI?**
-✅ **Future-Proof Security:** Stay ahead of quantum threats. **
-✅ **AI Optimization:** Adaptive algorithms for robust performance. **
-✅ **Scalable Solutions:** Designed to integrate into existing systems effortlessly. **
-✅ **Open Source:** Transparent and collaborative development. **
-✅ **Community-Driven:** Backed by cybersecurity experts and developers. **
+✅ **Future-Proof Security:** Stay ahead of quantum threats.
+
+✅ **AI Optimization:** Adaptive algorithms for robust performance.
+
+✅ **Scalable Solutions:** Designed to integrate into existing systems effortlessly.
+
+✅ **Open Source:** Transparent and collaborative development.
+
+✅ **Community-Driven:** Backed by cybersecurity experts and developers.
 
 ---
 
