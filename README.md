@@ -1,4 +1,4 @@
-# QuantumSafeAI: Quantum-Resistant Encryption for the Future
+# QuantumSafeAI: Quantum-Resistant Encryption
 
 ## 🚀 **Project Overview**
 As quantum computing technology advances, traditional encryption methods face increasing vulnerabilities. Quantum computers have the potential to break widely used cryptographic algorithms, posing a significant threat to global cybersecurity. *QuantumSafeAI* is an AI-powered quantum-safe encryption project designed to address these challenges head-on by integrating quantum-resistant encryption techniques and proactive AI strategies to secure sensitive data in the post-quantum era.
