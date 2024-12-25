@@ -122,8 +122,7 @@ Quantum computing is no longer science fiction—it’s a looming reality. By co
 
 **🌐 Website:** [www.quantumsafeai.com](https://www.quantumsafeai.com)
 
-**💬 Join Our Community:** [Discord](https://discord.gg/your-invite)
-**💬 Join Our Community:** [Twitter](https://x.com/your-invite)
+**💬 Join Our Community:** [Discord](https://discord.gg/your-invite) [Twitter](https://x.com/your-invite)
 
 Let's build a **quantum-safe future** together!
 
