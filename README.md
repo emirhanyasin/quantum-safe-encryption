@@ -118,11 +118,12 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 ## 📢 **Join the Quantum Revolution**
 Quantum computing is no longer science fiction—it’s a looming reality. By contributing to *QuantumSafeAI*, you're not just building software; you're safeguarding the digital world for the next generation.
 
-**🔗 [GitHub Repository](https://github.com/your-username/quantum-safe-ai)**
+**🔗 [GitHub Repository](https://github.com/emirhanyasin/quantum-safe-encryption)**
 
 **🌐 Website:** [www.quantumsafeai.com](https://www.quantumsafeai.com)
 
 **💬 Join Our Community:** [Discord](https://discord.gg/your-invite)
+**💬 Join Our Community:** [Twitter](https://x.com/your-invite)
 
 Let's build a **quantum-safe future** together!
 
