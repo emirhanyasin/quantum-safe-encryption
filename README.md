@@ -68,18 +68,18 @@ These methods ensure that encrypted data remains secure even if quantum computer
 ---
 
 ## 🔒 **Why Choose QuantumSafeAI?**
-✅ **Future-Proof Security:** Stay ahead of quantum threats.
-✅ **AI Optimization:** Adaptive algorithms for robust performance.
-✅ **Scalable Solutions:** Designed to integrate into existing systems effortlessly.
-✅ **Open Source:** Transparent and collaborative development.
-✅ **Community-Driven:** Backed by cybersecurity experts and developers.
+✅ **Future-Proof Security:** Stay ahead of quantum threats. **
+✅ **AI Optimization:** Adaptive algorithms for robust performance. **
+✅ **Scalable Solutions:** Designed to integrate into existing systems effortlessly. **
+✅ **Open Source:** Transparent and collaborative development. **
+✅ **Community-Driven:** Backed by cybersecurity experts and developers. **
 
 ---
 
 ## 📦 **Installation**
 ```bash
-git clone https://github.com/your-username/quantum-safe-ai.git
-cd quantum-safe-ai
+git clone https://github.com/emirhanyasin/quantum-safe-encryption.git
+cd quantum-safe-encryption
 pip install -r requirements.txt
 ```
 
